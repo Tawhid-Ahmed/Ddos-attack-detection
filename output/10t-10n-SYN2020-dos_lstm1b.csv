@@ -1,0 +1,2 @@
+Model,Samples,Accuracy,F1Score,Hyper-parameters,Validation Set
+SYN2020-dos_lstm1b,317,0.4795,0.6482,"{'batch_size': 2048, 'dropout': 0.9, 'kernels': 4, 'learning_rate': 0.1, 'regularization': 'l1'}",./sample-dataset\10t-10n-SYN2020-dataset-val.hdf5

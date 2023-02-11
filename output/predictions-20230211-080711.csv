@@ -1,0 +1,2 @@
+Model,Time,Packets,Samples,DDOS%,Accuracy,F1Score,TPR,FPR,TNR,FNR,Source
+SYN2020-dos_RNN,0.069,1932,352,0.500,1.0000,1.0000,1.0000,0.0000,1.0000,0.0000,sample-dataset\10t-10n-SYN2020-dataset-test.hdf5
